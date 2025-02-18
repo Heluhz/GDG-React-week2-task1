@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+}
+.counter{
+    font-size: 1rem;
+    margin: 5rem;
+    padding: 6rem;
+    border: 1px solid #000;
+    border-radius: 5px;
+    display: inline-block;
+}
+.App {
+    text-align: center;
+    color: #ffffff;
+    padding: 1rem;
+}
+button{
+    background-color: #000;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
